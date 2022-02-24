@@ -28,7 +28,7 @@
 * [Adhava]()
 * [Cole]()
 * [Gaurav]()
-* [Evan]()
+* [Evan L](https://github.com/Lembke2448/iOS-Portfolio-Lembke22)
 * [Jackson]()
 * [Ariel]()
 * [Lucas]()
